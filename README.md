@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00aeff&height=200&section=header&text=Desenvolvedor%20Full-Stack&fontSize=60&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+me+chamo+Arthur+Scarpin;Seja+bem-vindo(a)+ao+meu+reposit%C3%B3rio)](https://git.io/typing-svg)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurscarpin-dev/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-arthurscarpin/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalhoscarpin.dev@gmail.com)
 
 ![Arthur Scarpin GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurscarpin-dev&show_icons=true&theme=algolia)
