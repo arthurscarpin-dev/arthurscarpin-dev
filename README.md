@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00aeff&height=200&section=header&text=Backend%20Developer&fontSize=60&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Arthur+Scarpin;Welcome+to+my+profile+of+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Scarpin;Welcome+to+my+profile+of+GitHub)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
