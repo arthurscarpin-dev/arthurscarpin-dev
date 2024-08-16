@@ -1,50 +1,45 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00aeff&height=200&section=header&text=Backend%20Developer&fontSize=60&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Scarpin;Welcome+to+my+profile)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=52218a&height=200&section=header&text=Backend%20Developer&fontSize=60&animation=fadeIn&fontColor=ffffff)
+<h1 align="left">Hi, I`m Arthur</h1>
 
-<div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurscarpin-dev&layout=compact&langs_count=7&theme=algolia"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurscarpin-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-    
-## Technologies
-### Programming languages:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />    
-</div>
+<p align="left">
+• 🎓 I'm graduated in Information System at <a href="https://www.unip.br/">UNIP</a>.<BR>
+• 🧠 Enhancing my skills at <a href="https://www.alura.com.br/">ALURA</a>.<BR>
+</p>
 
-### Framework:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" />        
-</div>
-                
-### Database:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="40" height="40" />     
+## 🚀 My Tech Stack
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,dotnet,cs,python,django,flask,mysql,sqlite,windows"/>
+    </a>
+</p>
+
+## 🛠️ Tools I use on a daily basis
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,postman"/>
+    </a>
+</p>
+
+## 📈 Statistics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurscarpin-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Others:
-<div>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40" />
+## Let's get in touch
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+    </a>
+    <a href="https://discord.com/channels/@_arthurscarpin" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+    </a>
+    <a href = "mailto:scarpinarthur.dev@gmail.com" target="_blank">
+      <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" alt="gmail logo">
+    </a>
 </div>
 
-## Contacts:
-<div>
-  <a href = "mailto:scarpinarthur.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=52218a&height=120&section=footer"/>
