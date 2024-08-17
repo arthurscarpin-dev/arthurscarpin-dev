@@ -10,7 +10,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,dotnet,cs,python,django,flask,mysql,sqlite,windows"/>
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql,windows"/>
     </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,git,postman"/>
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,postman"/>
     </a>
 </p>
 
